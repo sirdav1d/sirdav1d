@@ -1,4 +1,4 @@
-# Olá Eu sou o David! 🤖
+# Olá, Eu sou o David! 🤖
 ##### ✨BLUEMER ✨
 #### Iniciei meus estudos na Blue Editech, e vou compartilhar aqui o meu progresso no mundo da PROGRAMAÇÃO 🔥💪
 
