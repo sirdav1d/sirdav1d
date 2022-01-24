@@ -1,4 +1,4 @@
-# Olá, Eu sou o David! 🤖
+# Olá, Eu sou o David <img src="https://github.com/Leoruiz197/Leoruiz197/blob/main/img/Hi.gif" width="50px" margin="15px">
 ##### ✨BLUEMER ✨
 #### Iniciei meus estudos na Blue Editech, e vou compartilhar aqui o meu progresso no mundo da PROGRAMAÇÃO 🔥💪
 
