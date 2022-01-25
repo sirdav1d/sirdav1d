@@ -1,6 +1,6 @@
 # Olá, Eu sou o David <img src="https://github.com/Leoruiz197/Leoruiz197/blob/main/img/Hi.gif" width="50px" margin="50px">
 ##### ✨BLUEMER ✨
-#### Iniciei meus estudos na Blue Editech, e vou compartilhar aqui o meu progresso no mundo da PROGRAMAÇÃO 🔥💪
+#### Iniciei meus estudos na Blue Edtech, e vou compartilhar aqui o meu progresso no mundo da PROGRAMAÇÃO!
 
 [![face](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/davidd.diniz)   [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/david_dinz/) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-dev-/) [![git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sirdav1d) [![whatss](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/BW3LGX5V4PVYF1) [![disc](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/5VfW8qps)
 
@@ -12,7 +12,7 @@
 ## Editor de código utilizado ☑️
 ![vs](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 
-
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **sirdav1d/sirdav1d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
