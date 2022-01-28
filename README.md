@@ -1,5 +1,8 @@
 # Olá, Eu sou o David <img src="https://github.com/Leoruiz197/Leoruiz197/blob/main/img/Hi.gif" width="50px" margin="50px">
 ##### ✨BLUEMER ✨
+
+
+
 ## Iniciei meus estudos na Blue Edtech, e vou compartilhar com vocês o meu progresso no mundo da PROGRAMAÇÃO!
 
 ##
@@ -12,7 +15,7 @@
   #
   
 <div style = display: "inline block" align = "center" margin = "0px"> 
-   <img style = display: "inline block" align = "left" width = "350" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=sirdav1d&theme=blue-green"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/><img src="https://img.icons8.com/fluency/48/000000/node-js.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/000000/npm.png"/>
+   <img style = display: "inline block" align = "left" width = "390" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=sirdav1d&theme=blue-green"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/><img src="https://img.icons8.com/fluency/48/000000/node-js.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/000000/npm.png"/>
     <div/>
 
   #
