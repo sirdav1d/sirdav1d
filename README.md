@@ -10,7 +10,7 @@
 
 
 <p style = display: "inline_block" align = "justify" >
-  <img align = "left" width = "420px" src="https://github-readme-stats.vercel.app/api?username=sirdav1d&show_icons=true&theme=chartreuse-dark"><img width = "420px" src="https://github-readme-streak-stats.herokuapp.com/?user=sirdav1d&theme=chartreuse-dark"> 
+  <img align = "left" width = "400px" src="https://github-readme-stats.vercel.app/api?username=sirdav1d&show_icons=true&theme=chartreuse-dark"><img width = "400px" src="https://github-readme-streak-stats.herokuapp.com/?user=sirdav1d&theme=chartreuse-dark"> 
    <p/>
   
   #
