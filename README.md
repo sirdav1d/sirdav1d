@@ -15,7 +15,7 @@
   #
   
 <div style = display: "inline block" align = "center" margin = "0px"> 
-   <img style = display: "inline block" align = "left" width = "390" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=sirdav1d&theme=chartreuse-dark"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/><img src="https://img.icons8.com/fluency/48/000000/node-js.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/000000/npm.png"/>
+   <img style = display: "inline block" align = "left" width = "390" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=sirdav1d&theme=chartreuse-dark"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/><img src="https://img.icons8.com/color/48/000000/nodejs.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/000000/npm.png"/>
     <div/>
 
   ##
