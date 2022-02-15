@@ -1,4 +1,4 @@
-# Olá, Eu sou o David <img src="https://github.com/Leoruiz197/Leoruiz197/blob/main/img/Hi.gif" width="50px" margin="50px"> <img align = "right" height = "160px" width = "180px" src = "https://o.remove.bg/downloads/6ab58c4e-8e9d-475c-9662-e05cffdbe5d5/imgdav-removebg-preview.png">
+# Olá, Eu sou o David <img src="https://github.com/Leoruiz197/Leoruiz197/blob/main/img/Hi.gif" width="50px" margin="50px"> <img align = "right" height = "160px" width = "180px" src = "https://pbs.twimg.com/media/FLpA_jlX0AILp6B?format=png&name=small">
   
 ##### ✨BLUEMER ✨
 
