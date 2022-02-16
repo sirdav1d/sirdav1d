@@ -6,7 +6,7 @@
 
 ### Iniciei meus estudos na [*Blue Edtech*](https://github.com/blue-edtech), e vou compartilhar com vocês o meu progresso no mundo da PROGRAMAÇÃO!
 
-
+##
 
 
 <p style = display: "inline_block" align = "justify" >
