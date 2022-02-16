@@ -4,7 +4,7 @@
 
 
 
-### Iniciei meus estudos na *Blue Edtech*, e vou compartilhar com vocês o meu progresso no mundo da PROGRAMAÇÃO!
+### Iniciei meus estudos na [*Blue Edtech*](https://github.com/blue-edtech), e vou compartilhar com vocês o meu progresso no mundo da PROGRAMAÇÃO!
 
 
 
