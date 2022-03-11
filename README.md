@@ -22,11 +22,11 @@
   ##
   
 <div>
-<a href= "https://www.facebook.com/davidd.diniz" target= "_blank"/><img src="https://img.icons8.com/fluency/48/000000/facebook.png" /> <a href= "https://www.instagram.com/david_dinz" target= "_blank"/> <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/><a href= "https://www.linkedin.com/in/david-dev-"/> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/><a href= "https://wa.me/qr/BW3LGX5V4PVYF1"/> <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/> <a href= "https://discord.gg/5VfW8qps"/> <img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/>
+<a href= "https://www.facebook.com/davidd.diniz" target= "_blank"/><img src="https://img.icons8.com/fluency/48/000000/facebook.png" /> <a href= "https://www.instagram.com/david_dinz" target= "_blank"/> <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/><a href= "https://www.linkedin.com/in/david-dev-"/> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/><a href= "https://discord.gg/5VfW8qps"/> <img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/>
    <div/>
    
-## 
 
+ ##
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
