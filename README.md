@@ -1,10 +1,10 @@
 # Olá, Eu sou o David <img src="https://github.com/Leoruiz197/Leoruiz197/blob/main/img/Hi.gif" width="60px" height="60px"><img align = "left" height = "180px" width = "200px" src = "https://pbs.twimg.com/media/FLpA_jlX0AILp6B?format=png&name=small">
   
-###### ✨*BLUEMER* ✨
 
 
 
-### Iniciei meus estudos na [*Blue Edtech*](https://github.com/blue-edtech), e vou compartilhar com vocês o meu progresso no mundo da PROGRAMAÇÃO!
+
+### Iniciei meus estudos em Engenharia de Software, e vou compartilhar com vocês o meu progresso no mundo da PROGRAMAÇÃO!
 
 ##
 
