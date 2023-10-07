@@ -1,4 +1,4 @@
-# Olá, Eu sou o David <img src="https://github.com/Leoruiz197/Leoruiz197/blob/main/img/Hi.gif" width="60px" height="60px"><img align = "left" height = "180px" width = "200px" src = "https://pbs.twimg.com/media/FLpA_jlX0AILp6B?format=png&name=small">
+# Olá, Eu sou o David <img src="https://github.com/Leoruiz197/Leoruiz197/blob/main/img/Hi.gif" width="60px" height="48px"><img align = "left" height = "180px" width = "200px" src = "https://pbs.twimg.com/media/FLpA_jlX0AILp6B?format=png&name=small">
   
 
 
@@ -8,6 +8,7 @@
 
 ##
 
+##
 
 <div style = {{display: "flex", justifyContent:"space-between", width:"100%"}}>
   <img align = "left" width = "340px" src="https://github-readme-stats.vercel.app/api?username=sirdav1d&show_icons=true&theme=chartreuse-dark"><img width = "340px" src="https://github-readme-streak-stats.herokuapp.com/?user=sirdav1d&theme=chartreuse-dark"> 
