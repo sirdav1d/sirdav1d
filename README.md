@@ -9,9 +9,9 @@
 ##
 
 
-<p style = display: "inline_block" align = "center" >
-  <img align = "left" width = "400px" src="https://github-readme-stats.vercel.app/api?username=sirdav1d&show_icons=true&theme=chartreuse-dark"><img width = "400px" src="https://github-readme-streak-stats.herokuapp.com/?user=sirdav1d&theme=chartreuse-dark"> 
-   <p/>
+<div style = {{display: "flex", justifyContent:"space-between", width:"100%"}}>
+  <img align = "left" width = "380px" src="https://github-readme-stats.vercel.app/api?username=sirdav1d&show_icons=true&theme=chartreuse-dark"><img width = "380px" src="https://github-readme-streak-stats.herokuapp.com/?user=sirdav1d&theme=chartreuse-dark"> 
+   </div>
   
   #
   
