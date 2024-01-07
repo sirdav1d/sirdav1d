@@ -23,7 +23,8 @@
   ##
   
 <div>
-<a href= "https://www.facebook.com/davidd.diniz" target= "_blank"/><img src="https://img.icons8.com/fluency/48/000000/facebook.png" /> <a href= "https://www.instagram.com/david_dinz" target= "_blank"/> <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/><a href= "https://www.linkedin.com/in/david-dev-"/> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/><a href= "https://discord.gg/5VfW8qps"/> <img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/>
+ <a href= "https://www.linkedin.com/in/david-dev-"> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+<a href= "https://discord.gg/5VfW8qps"> <img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/></a>
    <div/>
    
 
