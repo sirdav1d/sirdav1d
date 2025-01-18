@@ -4,15 +4,15 @@
 
 
 
-### Iniciei meus estudos em Engenharia de Software, e vou compartilhar com vocês o meu progresso no mundo da PROGRAMAÇÃO!
+### Engenheiro de Software fullstack
 
 
 
 ##
 
-<div style = {{display: "flex", justifyContent:"space-between", width:"100%"}}>
-  <img align = "left" width = "380px" src="https://github-readme-stats.vercel.app/api?username=sirdav1d&show_icons=true&theme=chartreuse-dark"/>
-   <img style = display: "inline_block" align = "left" width = "40%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirdav1d&layout=compact&theme=chartreuse-dark"/>
+<div >
+  <img  width = "392px" src="https://github-readme-stats.vercel.app/api?username=sirdav1d&show_icons=true&theme=chartreuse-dark"/>
+   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirdav1d&layout=compact&theme=chartreuse-dark"/>
    <div/>
   
 <div style = {{display: "flex",  flexDirection:"colunm", align = "center" margin = "0px"}}> 
